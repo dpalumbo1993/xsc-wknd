@@ -45,3 +45,7 @@ main .hero {
 .columns > div {
     border-bottom: 0px !important;
 }
+
+.block-4-images .columns > div {
+    height: 350px !important;
+}
