@@ -11,3 +11,7 @@ header .nav-wrapper {
 .underline h3::after {
     border-bottom: 2px solid black !important;
 }
+
+.cards.block-five-cards > ul {
+    grid-template-columns: repeat(auto-fill, minmax(227px, 1fr)) !important;
+}
