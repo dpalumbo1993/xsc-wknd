@@ -15,3 +15,7 @@ header .nav-wrapper {
 .cards.block-five-cards > ul {
     grid-template-columns: repeat(auto-fill, minmax(227px, 1fr)) !important;
 }
+
+.cards.cards.block-five-cards .cards-card-body h5 {
+    font-size: 21px !important;
+}
