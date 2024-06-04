@@ -29,3 +29,8 @@ main .hero {
 {
     margin-top: -93px !important;
 }
+
+.carousel-container .default-content-wrapper
+{
+    max-width: 100% !important;
+}
