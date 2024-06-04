@@ -41,3 +41,7 @@ main .hero {
     font-size: 30px;
     font-weight: bold;
 }
+
+.columns > div {
+    border-bottom: 0px !important;
+}
