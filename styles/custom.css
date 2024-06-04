@@ -34,3 +34,10 @@ main .hero {
 {
   max-width: 100% !important;
 }
+
+.title-section {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: bold;
+}
