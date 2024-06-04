@@ -2,3 +2,8 @@ header .nav-wrapper {
     background-color: #000 !important;
     height: 108px !important;
 }
+
+.block-4-images {
+    font-size: 20px;
+    text-align: center;
+}
