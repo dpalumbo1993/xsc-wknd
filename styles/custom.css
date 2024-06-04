@@ -7,3 +7,7 @@ header .nav-wrapper {
     font-size: 20px;
     text-align: center;
 }
+
+.underline h3::after {
+    border-bottom: 2px solid black !important;
+}
