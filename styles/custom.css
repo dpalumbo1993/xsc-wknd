@@ -30,7 +30,7 @@ main .hero {
     margin-top: -93px !important;
 }
 
-.carousel-container .default-content-wrapper .carousel-wrapper
+.carousel-container .default-content-wrapper, .carousel-container .carousel-wrapper
 {
   max-width: 100% !important;
 }
